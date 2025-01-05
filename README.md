@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
++ *(2025.04 - Present)* Master's Degree in Electrical Engineering and Information Systems, The University of Tokyo 
++ *(2020.09 - 2024.06)* B.Eng in Environmental Engineering, Hohai University
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guojiaxuan2001)](https://github.com/anuraghazra/github-readme-stats)
