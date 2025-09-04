@@ -2,11 +2,6 @@
 
 I'm a self-taught developer currently pursuing a Master's degree in Electrical Engineering and Information Systems (EEIS) at The University of Tokyo. My journey into computer science began outside the classroom — driven by curiosity, challenges, and a desire to build meaningful systems.
 
-🔧 **Interests**  
-- Platform Engineering ・ Site Reliability Engineering (SRE)  
-- Cloud Infrastructure ・ DevOps 
-- AI for Science ・ Natural Language Processing (NLP)
-
 🧠 I transitioned from Environmental Engineering (B.Eng, 2024) to EEIS (which is similar to an ECE major) out of a strong curiosity for technology. I'm passionate about building systems that work — from backend services to infrastructure tools — and I aspire to become a highly skilled developer who creates meaningful impact through code.
 
 🌐 [My personal site](https://kellyspace.notion.site)｜📫 jxguo@g.ecc.u-tokyo.ac.jp｜🇯🇵 Based in Tokyo, Japan
